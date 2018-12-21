@@ -1,5 +1,7 @@
 ## Todo App built using react
 
+<img src="https://i.imgur.com/ijeNq8G.png" width="300" alt="screen" border="0">
+
 1. add todo
 2. display todos
 3. complete todo
